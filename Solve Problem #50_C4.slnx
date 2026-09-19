@@ -1,0 +1,54 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Problem# 26/Problem# 26.vcxproj" Id="8fb79f03-6e17-40d5-a2d1-6f038a2fcb96" />
+  <Project Path="Problem#1 (Print Name)/Problem#1 (Print Name).vcxproj" Id="39c19719-922a-467c-b076-24eaedda70f4" />
+  <Project Path="Problem#10/Problem#10.vcxproj" Id="0f6d1c2e-3015-471c-9309-1990dad46c90" />
+  <Project Path="Problem#11/Problem#11.vcxproj" Id="1c34d838-85f1-44b9-94ec-4649fb6625eb" />
+  <Project Path="Problem#12/Problem#12.vcxproj" Id="a98c4365-1599-4b82-b3c9-7625feb34c65" />
+  <Project Path="Problem#13/Problem#13.vcxproj" Id="31afd575-5755-4683-8786-325253ef733c" />
+  <Project Path="Problem#14 (Swap Number )/Problem#14 (Swap Number ).vcxproj" Id="fe069ecd-9634-47bb-98b0-3edfc514196f" />
+  <Project Path="Problem#14 2/Problem#14 2.vcxproj" Id="41299123-a6d2-4bc9-825d-07ecf394db86" />
+  <Project Path="Problem#15 (Calculate Area)/Problem#15 (Calculate Area).vcxproj" Id="d75a0435-5b40-4407-aaf8-b82960484271" />
+  <Project Path="Problem#16 (Area)/Problem#16 (Area).vcxproj" Id="b9475d55-e922-416a-b375-604c7f3cc2c6" />
+  <Project Path="Problem#17/Problem#17.vcxproj" Id="99c9b525-637c-4e2e-acab-4c14ebcd773e" />
+  <Project Path="Problem#18 (Circle Area )/Problem#18 (Circle Area ).vcxproj" Id="c6cdf365-6ca4-4fd3-98d5-da0e2cad85f7" />
+  <Project Path="Problem#19/Problem#19.vcxproj" Id="9a0b19d1-398b-4230-aa7a-e190eb50b134" />
+  <Project Path="Problem#2 (Read Name&amp;Print)/Problem#2 (Read Name&amp;Print).vcxproj" Id="13eb82b8-739e-4812-8d25-2cdb67a16a70" />
+  <Project Path="Problem#20/Problem#20.vcxproj" Id="8f7eafe5-57aa-4324-8935-0861688279fa" />
+  <Project Path="Problem#24 (check Age )/Problem#24 (check Age ).vcxproj" Id="039813cc-c280-49b1-82b2-06ae451f45ea" />
+  <Project Path="Problem#25/Problem#25.vcxproj" Id="833e8bf7-585d-40f1-8aa6-45b0404073e3" />
+  <Project Path="Problem#27/Problem#27.vcxproj" Id="4f593985-d48d-41cc-9a07-b55ec89a1502" />
+  <Project Path="Problem#28/Problem#28.vcxproj" Id="a3f06cfc-960b-42c7-99cb-24c484f9e75b" />
+  <Project Path="Problem#29/Problem#29.vcxproj" Id="8a863a38-eba1-4611-96de-6fe14ac04b9e" />
+  <Project Path="Problem#3 (ODD &amp; EVEN)/Problem#3 (ODD &amp; EVEN).vcxproj" Id="caf800a2-69b2-4c63-aa86-1b8eca2beb03" />
+  <Project Path="Problem#30/Problem#30.vcxproj" Id="a5071b0d-9249-4a8f-9ba5-b279d3ec437f" />
+  <Project Path="Problem#31 (Power Num)/Problem#31 (Power Num).vcxproj" Id="8d03d8a5-0349-422c-bd1f-6c5c4be8131e" />
+  <Project Path="Problem#32/Problem#32.vcxproj" Id="bf024afa-1cf8-4e37-93d2-f18b5b484bb9" />
+  <Project Path="Problem#33 ( Grade Letter )/Problem#33 ( Grade Letter ).vcxproj" Id="9e488b8d-9265-4ab5-a98f-aa0c946c7ac9" />
+  <Project Path="Problem#34 ( Restaurant Bill )/Problem#34 ( Restaurant Bill ).vcxproj" Id="b15e8695-f170-468d-8aab-75e455cd47a1" />
+  <Project Path="Problem#35 ( Total Penny )/Problem#35 ( Total Penny ).vcxproj" Id="e748d75d-4847-4472-abb7-7eef13d4d849" />
+  <Project Path="Problem#36 ( type operation )/Problem#36 ( type operation ).vcxproj" Id="172fa0ff-0779-4635-84fe-34fa7c4d17cf" />
+  <Project Path="Problem#37 ( Sum Numbers )/Problem#37 ( Sum Numbers ).vcxproj" Id="f069bd52-e8f8-4f79-8a39-ff044b33154a" />
+  <Project Path="Problem#38 ( Prime Number )/Problem#38 ( Prime Number ).vcxproj" Id="6390e897-b1ad-4906-a81f-36aff5b2ff37" />
+  <Project Path="Problem#39 ( Remainder Money )/Problem#39 ( Remainder Money ).vcxproj" Id="8b7c7498-473d-48c0-be2d-b6f7591245bc" />
+  <Project Path="Problem#4/Problem#4.vcxproj" Id="46391b21-9848-43ca-bd78-6c00dee1941c" />
+  <Project Path="Problem#40 ( Restorant Charge)/Problem#40 ( Restorant Charge).vcxproj" Id="7cc28409-003d-435a-b237-b86691e8d205" />
+  <Project Path="Problem#41 ( Hours By Weeks&amp;&amp;Days )/Problem#41 ( Hours By Weeks&amp;&amp;Days ).vcxproj" Id="3331fd34-6ea9-4152-987e-a26eeef2c7eb" />
+  <Project Path="Problem#42 ( Numbers Of Seconds )/Problem#42 ( Numbers Of Seconds ).vcxproj" Id="d0cccf0f-fea8-4ca6-a904-f2686dd61272" />
+  <Project Path="Problem#43 ( Date )/Problem#43 ( Date ).vcxproj" Id="cd6090dd-5a63-46be-a828-983d37b279ae" />
+  <Project Path="Problem#44 ( Print The Day )/Problem#44 ( Print The Day ).vcxproj" Id="c2236f17-7cbd-4fb5-b190-6b942915173d" />
+  <Project Path="Problem#45 ( Print The Month)/Problem#45 ( Print The Month).vcxproj" Id="dc945b88-e492-4190-9ff7-9cc7f4c4581a" />
+  <Project Path="Problem#46 ( Print All Letters )/Problem#46 ( Print All Letters ).vcxproj" Id="bc008b58-33eb-487f-aa32-368b63424b00" />
+  <Project Path="Problem#47 ( LoanAmount )/Problem#47 ( LoanAmount ).vcxproj" Id="3ebb0976-4727-47eb-8b73-980f468dca98" />
+  <Project Path="Problem#48 ( part 2 )/Problem#48 ( part 2 ).vcxproj" Id="f73e2aa4-a0f4-469e-97b4-de3539c04fca" />
+  <Project Path="Problem#49 ( Read PIN)/Problem#49 ( Read PIN).vcxproj" Id="e4c47f9b-d418-44ba-bfc4-99559be1fb5b" />
+  <Project Path="Problem#5/Problem#5.vcxproj" Id="60585baa-9b7c-412d-9e5a-dd1e98b15289" />
+  <Project Path="Problem#50 (PIN Part 2 )/Problem#50 (PIN Part 2 ).vcxproj" Id="62f901fb-bf1c-40db-8a26-1e2f0b126995" />
+  <Project Path="Problem#6 (Read First &amp; Last -Name)/Problem#6 (Read First &amp; Last -Name).vcxproj" Id="f94c3424-01b9-401a-8476-53f065f064ad" />
+  <Project Path="Problem#7 ( Half Number)/Problem#7 ( Half Number).vcxproj" Id="0ab272a1-f060-4091-87f7-034eeffeef97" />
+  <Project Path="Problem#8/Problem#8.vcxproj" Id="0c9566ee-573b-4d36-8b02-4398fb66462c" />
+  <Project Path="Problem#9/Problem#9.vcxproj" Id="64c0f989-b508-430d-90a9-18b6e084247c" />
+</Solution>
