@@ -1,62 +1,64 @@
 # Problem Index
 
-This file lists the problems included in the repository and the folder names used for each one.
-
-| # | Problem folder / title |
-|---|---|
-| 1 | Problem#1 (Print Name) |
-| 2 | Problem#2 (Read Name&Print) |
-| 3 | Problem#3 (ODD & EVEN) |
-| 4 | Problem#4 |
-| 5 | Problem#5 |
-| 6 | Problem#6 (Read First & Last -Name) |
-| 7 | Problem#7 ( Half Number) |
-| 8 | Problem#8 |
-| 9 | Problem#9 |
-| 10 | Problem#10 |
-| 11 | Problem#11 |
-| 12 | Problem#12 |
-| 13 | Problem#13 |
-| 14 | Problem#14 (Swap Number ) |
-| 15 | Problem#15 (Calculate Area) |
-| 16 | Problem#16 (Area) |
-| 17 | Problem#17 |
-| 18 | Problem#18 (Circle Area ) |
-| 19 | Problem#19 |
-| 20 | Problem#20 |
-| 21 | Problem#21 |
-| 22 | Problem#22 |
-| 23 | Problem#23 |
-| 24 | Problem#24 (check Age ) |
-| 25 | Problem#25 |
-| 26 | Problem#26 |
-| 27 | Problem#27 |
-| 28 | Problem#28 |
-| 29 | Problem#29 |
-| 30 | Problem#30 |
-| 31 | Problem#31 (Power Num) |
-| 32 | Problem#32 |
-| 33 | Problem#33 ( Grade Letter ) |
-| 34 | Problem#34 ( Restaurant Bill ) |
-| 35 | Problem#35 ( Total Penny ) |
-| 36 | Problem#36 ( type operation ) |
-| 37 | Problem#37 ( Sum Numbers ) |
-| 38 | Problem#38 ( Prime Number ) |
-| 39 | Problem#39 ( Remainder Money ) |
-| 40 | Problem#40 ( Restorant Charge) |
-| 41 | Problem#41 ( Hours By Weeks&&Days ) |
-| 42 | Problem#42 ( Numbers Of Seconds ) |
-| 43 | Problem#43 ( Date ) |
-| 44 | Problem#44 ( Print The Day ) |
-| 45 | Problem#45 ( Print The Month) |
-| 46 | Problem#46 ( Print All Letters ) |
-| 47 | Problem#47 ( LoanAmount ) |
-| 48 | Problem#48 ( part 2 ) |
-| 49 | Problem#49 ( Read PIN) |
-| 50 | Problem#50 (PIN Part 2 ) |
+| # | Clear title |
+|---:|---|
+| 1 | Print a Name |
+| 2 | Read and Print a Name |
+| 3 | Check if a Number is Odd or Even |
+| 4 | Check Driving License Eligibility |
+| 5 | Check Hiring Eligibility with Recommendation |
+| 6 | Read and Print First and Last Name |
+| 7 | Calculate Half of a Number |
+| 8 | Check Pass or Fail |
+| 9 | Calculate the Sum of Entered Numbers |
+| 10 | Calculate the Sum and Average of Marks |
+| 11 | Calculate the Average and Check the Result |
+| 12 | Find the Maximum of Two Numbers |
+| 13 | Find the Maximum of Three Numbers |
+| 14 | Swap Two Numbers |
+| 14-2 | Swap Two Numbers — Second Version |
+| 15 | Calculate the Area of a Rectangle |
+| 16 | Calculate the Area |
+| 17 | Calculate the Area of a Triangle |
+| 18 | Calculate the Area of a Circle |
+| 19 | Calculate the Area of a Circle Using Its Diameter |
+| 20 | Calculate the Area of a Circle Inscribed in a Square |
+| 21 | Circle Area Exercise — Part 2 |
+| 22 | Circle Area Exercise — Part 3 |
+| 23 | Circle Area Exercise — Part 4 |
+| 24 | Validate an Age Range |
+| 25 | Read an Age Until It Is Valid |
+| 26 | Problem 26 — Title Pending Source Review |
+| 27 | Print Numbers from N Down to 1 |
+| 28 | Calculate the Sum of Odd Numbers from 1 to N |
+| 29 | Calculate the Sum of Even Numbers from 1 to N |
+| 30 | Calculate the Factorial of a Number |
+| 31 | Calculate a Number Power |
+| 32 | Calculate a Power Using a Function |
+| 33 | Convert a Grade to a Letter |
+| 34 | Calculate a Restaurant Bill |
+| 35 | Calculate the Total Amount in Pennies |
+| 36 | Perform an Arithmetic Operation Based on a Type |
+| 37 | Calculate the Sum of Numbers |
+| 38 | Check Whether a Number Is Prime |
+| 39 | Calculate the Remaining Money |
+| 40 | Calculate a Restaurant Bill with Service and Tax |
+| 40-2 | Restaurant Charges — Second Version |
+| 41 | Convert Hours into Weeks and Days |
+| 41-2 | Problem 41 — Second Version |
+| 42 | Convert Time into Seconds |
+| 43 | Work with a Date |
+| 44 | Print the Day Name |
+| 45 | Print the Month Name |
+| 46 | Print All Letters |
+| 47 | Calculate a Loan Amount |
+| 48 | Calculate the Monthly Loan Installment |
+| 49 | Read a PIN |
+| 50 | PIN Login with Limited Attempts |
 
 ## Notes
 
-Some folder names contain small naming inconsistencies due to the early learning stage of the project. They still represent valid exercises and can be organized later into a more standardized naming system.
-
-The goal of this file is to make the repository easier to browse and understand.
+- The titles are descriptive labels for the exercises; the original C++ solutions were not changed.
+- Problems 21–23 are represented by comments in the existing source code and do not currently have separate folders in the repository.
+- Some duplicate numbers exist in the repository, so `14-2`, `40-2`, and `41-2` identify the second folder/version without changing the original files.
+- Problem 26 needs its source file to be reviewed before assigning a reliable title because its current folder name does not describe the exercise.
